@@ -1,4 +1,4 @@
-# openrice_annotations# Openrice data for sentiment analysis
+# Openrice data for sentiment analysis
 
 This repository contains a sentiment lexicon for Cantonese language created on the **openrice** data.   
 
